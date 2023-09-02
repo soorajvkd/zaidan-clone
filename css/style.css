@@ -2473,7 +2473,8 @@ footer .bottom a {
     #best .details p {
         width: 100%;
     }
-    #best .right{
+
+    #best .right {
         width: 50%;
     }
 }
@@ -2634,11 +2635,11 @@ footer .bottom a {
     }
 
     #mission .count-container .right .count-box span.num {
-        font-size: 48px;
+        font-size: 38px;
     }
 
     #mission .count-container .right .count-box span.one {
-        font-size: 50px;
+        font-size: 40px;
     }
 
     #mission .count-container .right .count-box span.text {
@@ -2682,17 +2683,33 @@ footer .bottom a {
     header h1 a {
         width: 70px;
     }
+
     #submit form .top p {
         font-size: 17px;
     }
-    #spotlight .content{
+
+    #spotlight .content {
         top: 48%;
     }
-    #spotlight .titles{
+
+    #spotlight .titles {
         top: 26%;
     }
+
     #support .service p {
+        width: 95%;
+    }
+
+    #chairman .container {
         width: 100%;
+    }
+
+    #chairman .container .right {
+        padding: 30px 19px;
+    }
+
+    #chairman .container .right .content p {
+        font-size: 16px;
     }
 }
 
@@ -2720,7 +2737,46 @@ footer .bottom a {
         font-size: 16px;
     }
 
+    #mission .count-container .right .count-box span.one {
+        font-size: 25px;
+    }
 
+    #mission .count-container .right .count-box span.num {
+        font-size: 30px;
+    }
+
+    #chairman .container .left .img-container {
+        width: 250px;
+        height: 290px;
+        padding: 27px;
+    }
+
+    #feature .container {
+        padding: 6px;
+    }
+
+    #feature .container p {
+        font-size: 16px;
+    }
+
+    #company-about .container {
+        padding: 25px;
+    }
+    #chairman {
+        padding: 45px 0;
+    }
+}
+
+@media all and (max-width: 370px) {
+
+    #subscribe .right form input {
+        width: 239px;
+    }
+
+    #submit form {
+
+        padding: 20px;
+    }
 }
 
 @media all and (max-width: 329px) {
