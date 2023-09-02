@@ -2483,6 +2483,21 @@ footer .bottom a {
     #subscribe .right form input {
         width: 315px;
     }
+
+    #testimonial ul li {
+        flex-wrap: wrap;
+        margin-left: 0;
+    }
+
+    #testimonial ul li .left .img-container {
+        width: 114px;
+        height: 114px;
+    }
+
+    #testimonial ul li .left {
+        margin: 10px auto;
+
+    }
 }
 
 @media all and (max-width: 480px) {
@@ -2652,20 +2667,6 @@ footer .bottom a {
         margin-top: 40px;
     }
 
-    #testimonial ul li {
-        flex-wrap: wrap;
-        margin-left: 0;
-    }
-
-    #testimonial ul li .left .img-container {
-        width: 114px;
-        height: 114px;
-    }
-
-    #testimonial ul li .left {
-        margin: 10px auto;
-
-    }
 
     #testimonial ul li .right p {
         font-size: 16px;
