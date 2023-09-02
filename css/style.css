@@ -2467,11 +2467,14 @@ footer .bottom a {
     }
 
     #best .right {
-        margin: 20px auto;
+        margin: 55px auto;
     }
 
     #best .details p {
         width: 100%;
+    }
+    #best .right{
+        width: 50%;
     }
 }
 
