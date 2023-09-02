@@ -2654,6 +2654,7 @@ footer .bottom a {
 
     #testimonial ul li {
         flex-wrap: wrap;
+        margin-left: 0;
     }
 
     #testimonial ul li .left .img-container {
