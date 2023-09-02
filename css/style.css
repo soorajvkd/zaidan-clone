@@ -2679,6 +2679,15 @@ footer .bottom a {
     header h1 a {
         width: 70px;
     }
+    #submit form .top p {
+        font-size: 17px;
+    }
+    #spotlight .content{
+        top: 48%;
+    }
+    #spotlight .titles{
+        top: 26%;
+    }
 }
 
 @media all and (max-width: 426px) {
@@ -2687,7 +2696,7 @@ footer .bottom a {
     }
 
     #subscribe .right form input {
-        width: 173px;
+        width: 270px;
     }
 
     #subscribe .right form input {
