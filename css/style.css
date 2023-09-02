@@ -2688,6 +2688,9 @@ footer .bottom a {
     #spotlight .titles{
         top: 26%;
     }
+    #support .service p {
+        width: 100%;
+    }
 }
 
 @media all and (max-width: 426px) {
