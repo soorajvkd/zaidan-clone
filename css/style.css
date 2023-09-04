@@ -2389,6 +2389,9 @@ footer .bottom a {
     #contact .container .details ul li .mail {
         margin-top: 30px;
     }
+    footer .container .col-two {
+        margin-bottom: 121px;
+    }
 
 }
 
@@ -2715,6 +2718,9 @@ footer .bottom a {
     #company-about .container {
         padding: 30px;
     }
+    footer .container .col-two {
+        margin-bottom: 183px;
+    }
 }
 
 @media all and (max-width: 426px) {
@@ -2769,6 +2775,9 @@ footer .bottom a {
 
     #chairman {
         padding: 45px 0;
+    }
+    footer .container .col-two {
+        margin-bottom: 209px;
     }
 }
 
