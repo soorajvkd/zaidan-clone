@@ -2711,6 +2711,10 @@ footer .bottom a {
     #chairman .container .right .content p {
         font-size: 16px;
     }
+
+    #company-about .container {
+        padding: 30px;
+    }
 }
 
 @media all and (max-width: 426px) {
@@ -2762,6 +2766,7 @@ footer .bottom a {
     #company-about .container {
         padding: 25px;
     }
+
     #chairman {
         padding: 45px 0;
     }
